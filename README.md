@@ -31,9 +31,6 @@ The dataset contains the following features:
    - Random Forest
 5. **Model Evaluation** – Use metrics like accuracy, confusion matrix, and classification report.
 
-## Results
-
-The best-performing model was chosen based on accuracy and F1-score, ensuring reliable diabetes predictions on unseen data.
 
 ## Technologies Used
 
@@ -48,26 +45,13 @@ The best-performing model was chosen based on accuracy and F1-score, ensuring re
 
 1. Clone the repository or download the notebook.
 2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 3. Open the notebook:
-   ```bash
-   jupyter notebook Diabetes\ Prediction.ipynb
-   ```
 4. Run the cells to see data exploration, model training, and evaluation.
 
-## Future Improvements
+## Results
 
-- Hyperparameter tuning
-- Try additional models like XGBoost or SVM
-- Deploy the model using Flask or Streamlit
-- Improve missing value handling techniques
+The best performing model was chosen based on accuracy and F1-score, ensuring reliable diabetes predictions on unseen data.
 
-## Contact
-- Sindhu
-- Master's student in Information Technology
-- Passionate about machine learning and data analytics
 
 
 
